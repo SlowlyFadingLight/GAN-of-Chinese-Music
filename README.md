@@ -23,6 +23,8 @@ data:古筝数据集 musics of guzheng
 
 data_erhu:二胡数据集 musics of erhu
 
+note_g: notes list for guzheng  训练好的古筝音符表
+note_e: notes list for erhu     训练好的二胡音符表 
 
 ## Usage
 GAN_G.py:training for the guzheng music
