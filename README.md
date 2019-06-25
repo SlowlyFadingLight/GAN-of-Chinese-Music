@@ -1,5 +1,5 @@
 # MLP GAN
-## environment：
+## Environment：
 Windows 10
 
 Python 3.5
@@ -18,13 +18,13 @@ pygame                 1.9.6
 
 
 
-## data：
+## Data：
 data:古筝数据集 musics of guzheng
 
 data_erhu:二胡数据集 musics of erhu
 
 
-## usage
+## Usage
 GAN_G.py:training for the guzheng music
 
 GAN_E.PY:training for the erhu music
