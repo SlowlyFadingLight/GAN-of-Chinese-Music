@@ -28,6 +28,9 @@ note_g: notes list for guzheng  训练好的古筝音符表
 note_e: notes list for erhu     训练好的二胡音符表 
 
 ## Usage
+
+Must train first，because the models I saved are too large to be uploaded.
+
 GAN_G.py:training for the guzheng music
 
 GAN_E.PY:training for the erhu music
